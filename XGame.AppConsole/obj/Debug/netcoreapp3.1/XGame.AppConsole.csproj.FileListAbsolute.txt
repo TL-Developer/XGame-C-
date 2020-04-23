@@ -1,0 +1,16 @@
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\bin\Debug\netcoreapp3.1\XGame.AppConsole.exe
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\bin\Debug\netcoreapp3.1\XGame.AppConsole.deps.json
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\bin\Debug\netcoreapp3.1\XGame.AppConsole.runtimeconfig.json
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\bin\Debug\netcoreapp3.1\XGame.AppConsole.runtimeconfig.dev.json
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\bin\Debug\netcoreapp3.1\XGame.AppConsole.dll
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\bin\Debug\netcoreapp3.1\XGame.AppConsole.pdb
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\bin\Debug\netcoreapp3.1\XGame.Domain.dll
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\bin\Debug\netcoreapp3.1\XGame.Domain.pdb
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\obj\Debug\netcoreapp3.1\XGame.AppConsole.csprojAssemblyReference.cache
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\obj\Debug\netcoreapp3.1\XGame.AppConsole.AssemblyInfoInputs.cache
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\obj\Debug\netcoreapp3.1\XGame.AppConsole.AssemblyInfo.cs
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\obj\Debug\netcoreapp3.1\XGame.AppConsole.csproj.CopyComplete
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\obj\Debug\netcoreapp3.1\XGame.AppConsole.dll
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\obj\Debug\netcoreapp3.1\XGame.AppConsole.pdb
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\bin\Debug\netcoreapp3.1\prmToolkit.NotificationPattern.dll
+C:\Users\U001964\Desktop\projetos\XGame\XGame\XGame.AppConsole\bin\Debug\netcoreapp3.1\en-US\prmToolkit.NotificationPattern.resources.dll

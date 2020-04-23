@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\U001964\\Desktop\\projetos\\XGame\\XGame\\XGame.AppConsole\\XGame.AppConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\U001964\\Desktop\\projetos\\XGame\\XGame\\XGame.AppConsole\\XGame.AppConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\U001964\\Desktop\\projetos\\XGame\\XGame\\XGame.AppConsole\\XGame.AppConsole.csproj",
+        "projectName": "XGame.AppConsole",
+        "projectPath": "C:\\Users\\U001964\\Desktop\\projetos\\XGame\\XGame\\XGame.AppConsole\\XGame.AppConsole.csproj",
+        "packagesPath": "C:\\Users\\U001964\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\U001964\\Desktop\\projetos\\XGame\\XGame\\XGame.AppConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\U001964\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://xpinvestimentos.pkgs.visualstudio.com/_packaging/PackagesXP/nuget/V3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\U001964\\Desktop\\projetos\\XGame\\XGame\\XGame.Domain\\XGame.Domain.csproj": {
+                "projectPath": "C:\\Users\\U001964\\Desktop\\projetos\\XGame\\XGame\\XGame.Domain\\XGame.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "prmToolkit.NotificationPattern": {
+              "target": "Package",
+              "version": "[1.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\U001964\\Desktop\\projetos\\XGame\\XGame\\XGame.Domain\\XGame.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\U001964\\Desktop\\projetos\\XGame\\XGame\\XGame.Domain\\XGame.Domain.csproj",
+        "projectName": "XGame.Domain",
+        "projectPath": "C:\\Users\\U001964\\Desktop\\projetos\\XGame\\XGame\\XGame.Domain\\XGame.Domain.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
