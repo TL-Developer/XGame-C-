@@ -39,8 +39,8 @@ namespace XGame.Domain.Services
                 AddNotification("AutenticarJogadorRequest", "AutenticarJogadorRequest é obrigatório");
             }
 
-            var email = new Email("tiago.lima@teste.com.br");
-            var jogador = new Jogador(email, "222");
+            var email = new Email(request.Email);
+            var jogador = new Jogador(email, request.Senha);
 
             AddNotifications(jogador, email);
 
@@ -49,7 +49,7 @@ namespace XGame.Domain.Services
                 return null;
             }
 
-            var response = _repositoryJogador.AutenticarJogador(request);
+            var response = _repositoryJogador.AutenticarJogador(jogador.Email.Endereco, jogador.Senha);
 
             return response;
         }

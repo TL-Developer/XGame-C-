@@ -16,7 +16,7 @@ namespace XGame.AppConsole
             AutenticarJogadorRequest request = new AutenticarJogadorRequest();
             Console.WriteLine("Criei instancia do meu objeto request...");
             request.Email = "tiago.lima@teste.com.br";
-
+            request.Senha = "12345678";
 
             var response = service.AutenticarJogador(request);
 
